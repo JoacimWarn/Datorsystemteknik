@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armjlink2.dll" 
+
+"C:\Users\Laptop\Documents\Datorsystemteknik_rattlabbar\HWlab\lab1_int\Debug\Exe\labint.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\config\debugger\Atmel\SAM3XA.dmac" 
+
+--macro "F:\Datorsystemteknik\HWlab\lab1_int\arduino_due_x_sram.mac" 
+
+
+
+
